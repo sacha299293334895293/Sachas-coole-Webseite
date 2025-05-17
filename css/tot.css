@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color:white;
+}
+
+h1 {
+    color:red;
+    font-size:50px
+}
+
+.todesnachricht {
+    color:red;
+    font-weight:bold;
+    font-size:1.5em;
+    font-family:fantasy;
+    border: 2px solid yellow
+}
+
+.link {
+    background-color: white;
+    color:darkblue;
+    font-weight:bold;
+}
+
+#liste_gef {
+    color: red;
+    font-size:30px
+}
+
+#schmerz {
+    color:yellow;
+    font-size:20px;
+    text-decoration:underline
+}
+ 

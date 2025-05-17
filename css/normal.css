@@ -1,0 +1,48 @@
+h1 {
+    color: green;
+    background-color:antiquewhite;
+    text-decoration: underline;
+    text-align:center;
+    border: 1px solid black
+}
+
+body {
+    background-color:lightcyan
+}
+
+.entscheidung {
+    color:red;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px
+}
+
+.zuruck {
+    font-weight:bold
+}
+
+.text_mit_bild {
+    background-color:lightgreen;
+}
+
+#ul_liste {
+    background-color:green;
+    font-style:italic
+}
+
+#schwimmspass {
+    color:blue
+}
+
+#fluchen {
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkred;
+    font-size:22px
+}
+
+#tabelle {
+    border:1px solid green;
+}
+
+.gross {
+    font-size:20px;
+}
